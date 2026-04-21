@@ -73,6 +73,18 @@ Researchers seeking access should contact the Department of Pharmacoepidemiology
 ## Common Data Model (CDM)
 
 This repository contains the Common Data Model (CDM) mapping and documentation for the NLHR data source, following the OMOP CDM standard as used in the EMA DARWIN EU® framework.
+---
+
+## ETL Documentation
+
+The Extract, Transform, and Load (ETL) process that converts the raw Norwegian registry data into the OMOP CDM format is documented in the [`ETL/`](./ETL/) directory. This includes:
+
+- ETL scripts
+- ETL design documents and specification files
+- Vocabulary mapping tables
+- Data quality reports
+
+See the [ETL directory](./ETL/) for full details.
 
 ---
 

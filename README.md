@@ -73,6 +73,7 @@ Researchers seeking access should contact the Department of Pharmacoepidemiology
 ## Common Data Model (CDM)
 
 This repository contains the Common Data Model (CDM) mapping and documentation for the NLHR data source, following the OMOP CDM standard as used in the EMA DARWIN EU® framework.
+
 ---
 
 ## ETL Documentation

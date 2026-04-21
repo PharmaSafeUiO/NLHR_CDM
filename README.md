@@ -1,5 +1,9 @@
 # NLHR_CDM
 Norwegian Linked Health Registries (NLHR) – Common Data Model
+> **Institution:** University of Oslo (UiO), Norway
+> **EMA Data Catalogue:** [https://catalogues.ema.europa.eu/node/4310](https://catalogues.ema.europa.eu/node/4310/quantitative-descriptors)
+
+---
 
 ## Overview
 
